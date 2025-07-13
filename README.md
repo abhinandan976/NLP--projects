@@ -103,7 +103,7 @@ jupyter notebook kindle_sentiment_analysis.ipynb
 ## 📊 Results Summary
 | Project                        | Accuracy | Precision | Recall | F1-score |
 |--------------------------------|----------|-----------|--------|----------|
-| Spam vs Ham Classification     | ~80     | High      | High   | High     |
+| Spam vs Ham Classification     | ~80%     | High      | High   | High     |
 | Kindle Sentiment Analysis      | ~80%     | High      | High   | High     |
 
 ---
