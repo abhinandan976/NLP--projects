@@ -1,4 +1,4 @@
-# 📚 NLP Project Repository
+# 📚 NLP Projects Repository
 
 This repository contains two separate machine learning projects focused on **Natural Language Processing (NLP)** and **Text Classification**:
 
