@@ -16,7 +16,7 @@ The objective of this project is to detect and classify SMS messages into **Spam
 1. Data Loading and Exploration
 2. Data Cleaning & Preprocessing (stopwords removal, lemmatization)
 3. Feature Extraction using **TF-IDF Vectorizer**
-4. Model Training using classical ML algorithms
+4. Model Training using ML algorithms
 5. Evaluation using **Confusion Matrix, Precision, Recall, F1-score, and Accuracy**
 6. Visualization of results
 
