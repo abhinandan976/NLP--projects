@@ -49,7 +49,6 @@ jupyter notebook spam_classifier.ipynb
 - Algorithms: **Naive Bayes**, **Logistic Regression**, **Random Forest**
 - Achieved high accuracy in detecting spam messages.
 
-
 ---
 
 ## 🚩 Project 2: Kindle Reviews Sentiment Analysis
