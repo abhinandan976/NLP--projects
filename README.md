@@ -2,7 +2,7 @@
 
 This repository contains two separate machine learning projects focused on **Natural Language Processing (NLP)** and **Text Classification**:
 
-1. **Spam vs Ham Classification** — Classifying SMS messages as spam or not spam.  
+1. **Spam - Ham Classification** — Classifying SMS messages as spam or not spam.  
 2. **Kindle Reviews Sentiment Analysis** — Classifying Kindle product reviews into positive or negative sentiments.
 
 ---
